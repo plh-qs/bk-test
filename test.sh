@@ -1,5 +1,8 @@
 #!/bin/sh
 
+set -x
+
+
 date
 
 echo "YES"
