@@ -12,6 +12,11 @@ ls -lL /
 
 pwd
 
+echo "Hello Leon"
+
+
+
+
 
 
 
