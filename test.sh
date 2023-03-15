@@ -7,6 +7,9 @@ echo "YES"
 ls -lR
 ls -lL /
 
+pwd
+
+
 
 
 
